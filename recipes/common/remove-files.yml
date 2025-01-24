@@ -1,0 +1,4 @@
+modules:
+  - type: script
+    snippets:
+      - "rm -f /usr/share/gnome/autostart/libcanberra-login-sound.desktop"

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: rpm-ostree
+    repos:
+      - vscode.repo
+    keys:
+      - https://packages.microsoft.com/keys/microsoft.asc
+    install:
+      - code
+      - gnome-tweaks
+      - ibm-plex-fonts-all
+      - adw-gtk3-theme
+      - papirus-icon-theme
+      - papirus-icon-theme-light
+      - papirus-icon-theme-dark
+      - epapirus-icon-theme
+      - yaru-icon-theme
+      - yaru-sound-theme
+      - usbguard
+      - usbguard-dbus
+      - usbguard-tools
+      - usbguard-selinux
+      - telnet
+      - nmap
+      - netcat
+      - traceroute
+      - mtr
+      - efivar
+      - efivar-libs
+      - smartmontools
+      - coreos-installer
+    remove:
+      - gnome-tour
+      - gnome-contacts
+      - gnome-weather
+      - gnome-maps
+      - firefox

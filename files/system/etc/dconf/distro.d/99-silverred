@@ -1,0 +1,23 @@
+[org.gnome.desktop.interface]
+accent-color='red'
+clock-format='12h'
+clock-show-weekday=true
+color-scheme='prefer-light'
+cursor-theme='Yaru'
+document-font-name='Cantarell 12'
+enable-hot-corners=true
+font-antialiasing='rgba'
+font-hinting='none'
+font-name='IBM Plex Sans 12'
+gtk-enable-primary-paste=false
+gtk-theme='adw-gtk3'
+icon-theme='Papirus'
+monospace-font-name='JetBrains Mono Regular 12'
+show-battery-percentage=true
+
+[org.gnome.desktop.background]
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/solid_f51c1c.png'
+picture-uri-dark='file:///usr/share/backgrounds/solid_f51c1c.png'
+primary-color='F51C1C'
+secondary-color='FFFFFF'

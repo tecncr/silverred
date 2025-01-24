@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: default-flatpaks
+    notify: true
+    system:
+      install:
+        - org.mozilla.firefox
+        - com.brave.Browser
+        - com.usebruno.Bruno
+        - io.dbeaver.DBeaverCommunity
+        - ca.desrt.dconf-editor
+        - org.gnome.Firmware
+        - org.libreoffice.LibreOffice
+        - com.obsproject.Studio
+        - org.raspberrypi.rpi-imager
+        - org.remmina.Remmina
+        - org.videolan.VLC
+        - org.pulseaudio.pavucontrol
