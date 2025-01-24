@@ -12,12 +12,12 @@ font-name='IBM Plex Sans 12'
 gtk-enable-primary-paste=false
 gtk-theme='adw-gtk3-dark'
 icon-theme='Papirus'
-monospace-font-name='JetBrains Mono Regular 12'
+monospace-font-name='JetBrainsMono Nerd Font Regular 12'
 show-battery-percentage=true
 
 [org.gnome.desktop.background]
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/solid_f51c1c.png'
-picture-uri-dark='file:///usr/share/backgrounds/solid_f51c1c.png'
+picture-uri='file:///usr/share/backgrounds/20250124_01.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/20250124_01.jpg'
 primary-color='F51C1C'
 secondary-color='FFFFFF'
