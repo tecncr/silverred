@@ -4,9 +4,18 @@ modules:
     notify: true
     system:
       install:
+        - org.gnome.Papers
+        - org.gnome.Calculator
+        - org.gnome.Loupe
+        - org.gnome.Calendar
+        - org.gnome.clocks
+        - org.gnome.SimpleScan
+        - org.gnome.Snapshot
         - org.mozilla.firefox
         - com.brave.Browser
+        - com.github.tchx84.Flatseal
         - io.missioncenter.MissionCenter
+        - com.mattjakeman.ExtensionManager
         - com.usebruno.Bruno
         - io.dbeaver.DBeaverCommunity
         - ca.desrt.dconf-editor
