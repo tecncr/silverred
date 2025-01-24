@@ -32,3 +32,4 @@ modules:
     remove:
       - gnome-tour
       - firefox
+      - firefox-langpacks
