@@ -3,3 +3,4 @@ modules:
   - type: script
     scripts:
       - papirus-folders.sh
+      - balena-etcher.sh
