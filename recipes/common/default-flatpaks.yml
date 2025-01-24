@@ -10,7 +10,6 @@ modules:
         - com.usebruno.Bruno
         - io.dbeaver.DBeaverCommunity
         - ca.desrt.dconf-editor
-        - org.gnome.Firmware
         - org.libreoffice.LibreOffice
         - com.obsproject.Studio
         - org.raspberrypi.rpi-imager
