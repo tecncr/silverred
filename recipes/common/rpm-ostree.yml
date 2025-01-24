@@ -33,3 +33,4 @@ modules:
       - gnome-tour
       - firefox
       - firefox-langpacks
+      - nvtop
