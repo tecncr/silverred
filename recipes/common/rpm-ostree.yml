@@ -7,6 +7,7 @@ modules:
       - https://packages.microsoft.com/keys/microsoft.asc
     install:
       - firewalld
+      - firewall-config
       - code
       - gnome-tweaks
       - file-roller
