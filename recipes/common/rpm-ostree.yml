@@ -31,7 +31,4 @@ modules:
       - coreos-installer
     remove:
       - gnome-tour
-      - gnome-contacts
-      - gnome-weather
-      - gnome-maps
       - firefox
