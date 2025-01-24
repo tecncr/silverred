@@ -6,6 +6,7 @@ modules:
       install:
         - org.mozilla.firefox
         - com.brave.Browser
+        - io.missioncenter.MissionCenter
         - com.usebruno.Bruno
         - io.dbeaver.DBeaverCommunity
         - ca.desrt.dconf-editor
