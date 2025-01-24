@@ -25,3 +25,5 @@ modules:
         - org.remmina.Remmina
         - org.videolan.VLC
         - org.pulseaudio.pavucontrol
+        - com.anydesk.Anydesk
+        - com.rustdesk.RustDesk
