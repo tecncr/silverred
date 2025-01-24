@@ -3,6 +3,7 @@ modules:
   - type: rpm-ostree
     repos:
       - vscode.repo
+      - https://copr.fedorainfracloud.org/coprs/adelton/rpiboot/repo/fedora-%OS_VERSION%/adelton-rpiboot-fedora-%OS_VERSION%.repo
     keys:
       - https://packages.microsoft.com/keys/microsoft.asc
     install:
@@ -28,6 +29,7 @@ modules:
       - netcat
       - traceroute
       - mtr
+      - rpiboot
       - efivar
       - efivar-libs
       - smartmontools
