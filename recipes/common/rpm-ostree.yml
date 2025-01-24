@@ -34,3 +34,4 @@ modules:
       - firefox
       - firefox-langpacks
       - nvtop
+      - gnome-system-monitor
