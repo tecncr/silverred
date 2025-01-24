@@ -11,6 +11,7 @@ modules:
         - org.gnome.clocks
         - org.gnome.SimpleScan
         - org.gnome.Snapshot
+        - org.gnome.TextEditor
         - org.mozilla.firefox
         - com.brave.Browser
         - com.github.tchx84.Flatseal
