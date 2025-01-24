@@ -6,8 +6,10 @@ modules:
     keys:
       - https://packages.microsoft.com/keys/microsoft.asc
     install:
+      - firewalld
       - code
       - gnome-tweaks
+      - file-roller
       - ibm-plex-fonts-all
       - adw-gtk3-theme
       - papirus-icon-theme
