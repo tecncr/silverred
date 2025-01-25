@@ -54,8 +54,8 @@ translate=false
 [org/gnome/desktop/background]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/20250124_01.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/20250124_01.jpg'
+picture-uri='file:///usr/share/backgrounds/20250124_01.png'
+picture-uri-dark='file:///usr/share/backgrounds/20250124_01.png'
 primary-color='#464646'
 secondary-color='#464646'
 
@@ -100,7 +100,7 @@ report-technical-problems=false
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/20250124_01.jpg'
+picture-uri='file:///usr/share/backgrounds/20250124_01.png'
 primary-color='#464646'
 secondary-color='#464646'
 
