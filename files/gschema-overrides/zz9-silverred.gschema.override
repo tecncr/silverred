@@ -23,7 +23,7 @@ window-state=(980, 640, true)
 folder-children=['aee7fa01-8440-4f18-8d7d-6528c57d83c0', 'd5effde2-cde1-4f8b-aa35-9c15dd69f06f', '11ec53a2-a52b-4795-9ae1-cf64e97f91ac', '1be27433-bb64-4efc-a8be-0f6b60cf3268', 'af8a9d59-0a5e-469c-813c-5accd73cc31d', '284e024d-7b28-44c0-b40b-f7ba1032250f']
 
 [org/gnome/desktop/app-folders/folders/11ec53a2-a52b-4795-9ae1-cf64e97f91ac]
-apps=['org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'org.gnome.DiskUtility.desktop', 'io.missioncenter.MissionCenter.desktop', 'htop.desktop', 'com.github.tchx84.Flatseal.desktop', 'ca.desrt.dconf-editor.desktop', 'firewall-config.desktop']
+apps=['org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'org.gnome.DiskUtility.desktop', 'io.missioncenter.MissionCenter.desktop', 'com.github.tchx84.Flatseal.desktop', 'ca.desrt.dconf-editor.desktop', 'firewall-config.desktop', 'virt-manager.desktop', 'htop.desktop']
 name='Sistema'
 translate=false
 
@@ -42,7 +42,7 @@ name='Ofimática'
 translate=false
 
 [org/gnome/desktop/app-folders/folders/af8a9d59-0a5e-469c-813c-5accd73cc31d]
-apps=['org.remmina.Remmina.desktop', 'com.anydesk.Anydesk.desktop', 'com.rustdesk.RustDesk.desktop']
+apps=['org.remmina.Remmina.desktop', 'com.anydesk.Anydesk.desktop', 'com.rustdesk.RustDesk.desktop', 'remote-viewer.desktop']
 name='Acceso Remoto'
 translate=false
 
