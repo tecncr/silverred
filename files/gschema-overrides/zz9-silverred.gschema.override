@@ -1,3 +1,11 @@
+[ca/desrt/dconf-editor]
+saved-pathbar-path='/'
+saved-view='/'
+show-warning=false
+window-height=500
+window-is-maximized=false
+window-width=540
+
 [org/gnome/Ptyxis]
 default-profile-uuid='2fe7d446df07b0be5f1a261a6793e246'
 interface-style='system'
@@ -44,6 +52,10 @@ name='Accesorios'
 translate=false
 
 [org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/20250124_01.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/20250124_01.jpg'
 primary-color='#464646'
 secondary-color='#464646'
 
@@ -59,9 +71,12 @@ accent-color='red'
 clock-format='12h'
 clock-show-weekday=true
 color-scheme='prefer-light'
+cursor-theme='Yaru'
 document-font-name='IBM Plex Sans 12'
+font-hinting='none'
 font-name='IBM Plex Sans 12'
 gtk-theme='adw-gtk3'
+icon-theme='Papirus'
 monospace-font-name='JetBrainsMono Nerd Font 12'
 show-battery-percentage=true
 
