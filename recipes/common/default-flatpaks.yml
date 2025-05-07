@@ -28,3 +28,4 @@ modules:
         - org.pulseaudio.pavucontrol
         - com.anydesk.Anydesk
         - com.rustdesk.RustDesk
+        - com.bitwarden.desktop
