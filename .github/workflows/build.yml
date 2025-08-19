@@ -1,10 +1,10 @@
 name: Build images with BlueBuild
-on:
-  schedule:
-    - cron: "00 06 * * *"
-  push:
-    paths-ignore:
-      - "**.md"
+#on:
+#  schedule:
+#    - cron: "00 06 * * *"
+#  push:
+#    paths-ignore:
+#      - "**.md"
       
   pull_request:
   workflow_dispatch:
